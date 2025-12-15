@@ -12,6 +12,6 @@
 
 - MySQL
 - SQL
-- 디디엘/디엠엘
+- DDL/DML
 
-더 자세한 내용은 [TermProject_HR_Analysis.md](TermProject_HR_Analysis) 파일을 참고하세요.
+더 자세한 내용은 [TermProject_HR_Analysis.md](TermProject_HR_Analysis.md) 파일을 참고하세요.
